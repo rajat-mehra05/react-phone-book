@@ -1,2 +1,5 @@
-# react-phone-book
-Created with CodeSandbox
+# React-Phone-Book
+
+ - Display user data in a table.
+ - Sorts the userLastName alphabetically.
+
